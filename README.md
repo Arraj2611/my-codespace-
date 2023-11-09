@@ -1,3 +1,2 @@
 # my-codespace-
-
-place to be filled 
+`repo containing my learning materials and my mini projects which i am working on`
